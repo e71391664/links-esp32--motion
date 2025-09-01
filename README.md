@@ -6,5 +6,3 @@ https://github.com/longpth/ESP32-CAM-ObjectDetection
 https://github.com/PierceBrandies/PetFeeder
 
 https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd
-
-https://github.com/favicon.ico
